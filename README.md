@@ -17,6 +17,6 @@ else:
 * == igualdad
 * != no son iguales
 * < menor a
-* /> mayor a
+* > mayor a
 * <= menor o igual
-* />= mayor o igual
+* >= mayor o igual
